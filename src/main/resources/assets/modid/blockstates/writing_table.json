@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "modid:block/writing_table" },
+    "facing=east": { "model": "modid:block/writing_table", "y": 90 },
+    "facing=south": { "model": "modid:block/writing_table", "y": 180 },
+    "facing=west": { "model": "modid:block/writing_table", "y": 270 }
+  }
+}
